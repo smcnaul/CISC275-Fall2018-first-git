@@ -11,3 +11,4 @@
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 	The comparator constructor call occurs where it says "new Comparator<Animal>()".
 	The class definition immediately follows the curly brackets after the constructor call.
+
